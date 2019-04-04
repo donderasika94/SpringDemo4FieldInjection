@@ -1,0 +1,2 @@
+SpringDemo2WithFieldInjection
+This folder contains rendereer and provider example with Field Injection
